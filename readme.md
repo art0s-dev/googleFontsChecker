@@ -1,5 +1,5 @@
 # googleFontsChecker
-Since february the distric court of munich has restricted the usage of the google's font api without direct agreement because of illegal tracking activities. So it can be quire interesting for webdevs or customers to know if some of their projects incorporates the ussage of the google font api. 
+Since february the distric court of munich has restricted the usage of the google's font api without direct agreement because of illegal tracking activities. So it can be quite interesting for webdevs or customers to know if some of their projects incorporates the ussage of the google font api. 
 
 German Article right here:
 https://www.datenschutzticker.de/2022/03/einsatz-von-google-fonts-ohne-einwilligung-ist-rechtswidrig/
