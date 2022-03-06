@@ -1,0 +1,35 @@
+
+
+form#googleFontsChecker small {
+    display: none;
+}
+form#googleFontsChecker small.active {
+    display: block;
+}
+
+
+form#googleFontsChecker i[role="success"], 
+form#googleFontsChecker i[role="error"],
+form#googleFontsChecker span[role="loader"]
+{
+    display: none;
+}
+
+form#googleFontsChecker .btn-success  i[role="success"]{
+    display: contents;
+}
+
+form#googleFontsChecker .btn-danger  i[role="error"]{
+    display: contents;
+}
+
+form#googleFontsChecker .btn-secondary span[role="loader"]{
+    display: inline-block;
+
+}
+
+
+
+
+
+
