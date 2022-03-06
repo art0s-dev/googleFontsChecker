@@ -22,8 +22,8 @@ This is completely optional. You can design your own component from scratch.
 You just have to adjust the classes used in the JS File.
 
 The incorporated Style used:
-* -> Bootstrap5.1.3
-* -> bootstrap-icons@1.8.1
+* Bootstrap5.1.3
+* bootstrap-icons@1.8.1
 
 
 
