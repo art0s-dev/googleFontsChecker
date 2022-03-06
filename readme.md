@@ -7,26 +7,6 @@ https://www.datenschutzticker.de/2022/03/einsatz-von-google-fonts-ohne-einwillig
 So this is a small project to help you out. If you like it, share it.
 Its FOSS and free to use and change. If you can spot some calamities or lesser bugs, typos or something, create an issue and feel free to contribute!
 
-
-### "Logic"
-
---------------------------------------------
-*Index
-*^
-*| provides view
-*|
-*googleFontsChecker
-*^
-*| ajax
-*V
-*ajaxHandler  <---  googleFontsChecker
-*(php script) --->  (php class)
-*
---------------------------------------------
-
-So a very basic plugin for your homepage. 
-Feel free to use other Ajax handlers to adjust the plugin to your needs.
-
 ## Style
 
 This is completely optional. You can design your own component from scratch.
