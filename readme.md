@@ -7,14 +7,23 @@ https://www.datenschutzticker.de/2022/03/einsatz-von-google-fonts-ohne-einwillig
 So this is a small project to help you out. If you like it, share it.
 Its FOSS and free to use and change. If you can spot some calamities or lesser bugs, typos or something, create an issue and feel free to contribute!
 
+## "Logic"
+* user enters url
+* js declares behaviour
+* js starts ajax after submit and delivers json string
+* ajax handler creates object and feeds it with json
+* object opens webpage and looks for gfonts.api
+* object returns response to js
+* js shows result through different button states
+
 ## Style
 
 This is completely optional. You can design your own component from scratch.
 You just have to adjust the classes used in the JS File.
 
 The incorporated Style used:
-*-> Bootstrap5.1.3
-*-> bootstrap-icons@1.8.1
+* -> Bootstrap5.1.3
+* -> bootstrap-icons@1.8.1
 
 
 
