@@ -86,9 +86,6 @@ form.button.addEventListener("click", function (e){
         form.toggleState('danger',form.messages.VALIDATION_FAILED)
 
     }
-    setTimeout(() => {
-        form.toggleState('primary',form.messages.BUTTON_NORMAL)
-    }, 3000);
 });  
 
 
